@@ -20,4 +20,4 @@ The following screenshots shows the application functionality:
 
 ![Screenshot 2](./assets/images/screenshot2.png)
 
-## Link to deployed application: 
+## Link to deployed application: https://haredahmed99.github.io/Work-Day-Scheduler/
